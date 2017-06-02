@@ -1,3 +1,3 @@
-import autoProgress from './auto-progress'
+import autoProgress from './auto-progress.vue'
 
 export default autoProgress

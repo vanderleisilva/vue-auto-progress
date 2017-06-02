@@ -9,9 +9,7 @@
   ],
   "scripts": {
     "lint": "eslint ./src/**",
-    "build": "node build",
-    "build-docs": "webpack --config ./docs/webpack.config.js",
-    "gh-docs": "gh-pages -d docs -m 'Deployed to Github Pages'"
+    "build": "node build"
   },
   "repository": {
     "type": "git",

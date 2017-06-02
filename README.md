@@ -13,6 +13,7 @@ $ npm install vue-auto-progress
 
 # Usage
 
+```javascript
 <script>
 import topProgress from 'vue-top-progress'
 

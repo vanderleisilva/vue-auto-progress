@@ -1,5 +1,10 @@
 > A zero configuration progress loading bar component for Vue.js.
 
+Just add a reference and it’s done.
+ 
+The component interact with every ajax requisition to add a google top progress bar style 
+
+
 # Requirements
 
 - [Vue.js](https://github.com/vuejs/vue) `^2.0.0`

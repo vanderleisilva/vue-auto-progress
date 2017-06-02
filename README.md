@@ -15,7 +15,7 @@ $ npm install vue-auto-progress --save
 
 ```javascript
 <script>
-import autoProgress from 'vue-top-progress'
+import autoProgress from 'vue-auto-progress'
 
 new Vue({
   el: '#app',

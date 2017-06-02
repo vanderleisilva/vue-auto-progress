@@ -1,6 +1,6 @@
 {
   "name": "vue-auto-progress",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A zero configuration progress loading bar component for Vue.js",
   "main": "./dist/vue-auto-progress.min.js",
   "files": [

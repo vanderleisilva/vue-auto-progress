@@ -8,21 +8,21 @@
 # Installation
 
 ``` bash
-$ npm install vue-auto-progress
+$ npm install vue-auto-progress --save
 ```
 
 # Usage
 
 ```javascript
 <script>
-import topProgress from 'vue-top-progress'
+import autoProgress from 'vue-top-progress'
 
 new Vue({
   el: '#app',
   router,
   data,
   template: '<div><App/><auto-progress/></div>',  
-  components: { App, modal, toastr, progressbar }
+  components: { App, autoProgress }
 })
 
 </script>
